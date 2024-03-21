@@ -1,0 +1,22 @@
+# .gitignore
+.DS_Store
+# Node.js dependencies
+node_modules/
+
+# Environment variables
+.env
+
+# Build output
+dist/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Editor settings
+.vscode/
+*.swp
+*.swo
+*.swn
+*.bak
